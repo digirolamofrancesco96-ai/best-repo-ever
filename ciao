@@ -1,0 +1,41 @@
+[33mcommit 0b010691a9944e1916811300b79d1e98c9417b4d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: digirolamofrancesco96-ai <digirolamofrancesco96@gmail.com>
+Date:   Fri Oct 24 16:20:39 2025 +0200
+
+    Add files via upload
+
+[33mcommit 74dcce3b0fe95940c22afdff978c646376553dc8[m[33m ([m[1;31morigin/new-branch-2[m[33m, [m[1;32mnew-branch-2[m[33m)[m
+Merge: f1ef58f ba93c27
+Author: digirolamofrancesco96-ai <digirolamofrancesco96@gmail.com>
+Date:   Fri Oct 24 15:56:15 2025 +0200
+
+    Merge pull request #2 from digirolamofrancesco96-ai/myfeaturebranch
+    
+    Update README.md
+
+[33mcommit ba93c2742ca69cab4e7908e6ab31af49196dac3b[m[33m ([m[1;32mnew-branch-1[m[33m, [m[1;32mmyfeaturebranch[m[33m)[m
+Author: Francesco Di Girolamo <digirolamofrancesco96@gmail.com>
+Date:   Fri Oct 24 15:55:50 2025 +0200
+
+    Update README.md
+
+[33mcommit f1ef58f0b9af14e12bccc05202431524eedc5f10[m
+Merge: 644e662 5383c27
+Author: digirolamofrancesco96-ai <digirolamofrancesco96@gmail.com>
+Date:   Fri Oct 24 15:32:44 2025 +0200
+
+    Merge pull request #1 from digirolamofrancesco96-ai/myfeaturebranch
+    
+    Aggiornamento README per test PR
+
+[33mcommit 5383c2767289351185a961fa2715c4c7839bd91e[m
+Author: Francesco Di Girolamo <digirolamofrancesco96@gmail.com>
+Date:   Fri Oct 24 15:26:53 2025 +0200
+
+    Aggiornamento README per test PR
+
+[33mcommit 644e662c68b1ad6b6c4be843451245859f11ca9f[m
+Author: digirolamofrancesco96-ai <digirolamofrancesco96@gmail.com>
+Date:   Fri Oct 24 12:59:36 2025 +0200
+
+    Initial commit
